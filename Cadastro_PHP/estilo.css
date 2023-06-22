@@ -1,0 +1,74 @@
+*
+{
+    margin: 0px;
+}
+
+.corpo
+{
+    background-image: url(Imagem.jpg);
+}
+
+.titulo
+{
+    text-align: center;
+}
+.cabeca
+{
+    position: relative;
+    background-color: aqua;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+
+#cadastro
+{
+    border-radius: 30px;
+}
+
+.conj
+{
+    border-color: aqua;
+    position: static;
+    width: 300px;
+    height: 20px;
+}
+
+#data
+{
+    width: 303px;
+}
+
+#bloco
+{
+    margin: 10px;
+    border-style: solid;
+    border-color: aquamarine;
+    position: relative;
+    left: 200px;
+    height: 288px;
+    top: 100px;
+    width: 308px;
+}
+
+#enviar
+{
+    border-color: aquamarine;
+    position: relative;
+    left: 320px;
+    top: -36px;
+}
+
+#erro
+{
+    text-align: center;
+    font-size: 200px;
+    color: red;
+}
+
+.rodape
+{
+    position: relative;
+    background-color: aquamarine;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
